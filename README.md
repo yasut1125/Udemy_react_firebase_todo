@@ -1,3 +1,10 @@
+# Udemy
+
+[Firebase + React Hooks(TypeScript)による Web アプリ開発](https://www.udemy.com/course/firebase-react-hookstypescriptweb/)
+
+- 上記で使用されたコードを一部ライブラリを最新のものを使用した （react,mui,react-router-dom,firebase）
+  - [コースで使用されているコード](https://github.com/GomaGoma676/firebase-react-todo)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
